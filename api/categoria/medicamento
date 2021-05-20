@@ -1,0 +1,47 @@
+[
+      {
+         "id":1,
+         "nome":"Antisséptico",
+         "descricao":"Utilizado na prevenção e no controle de infecções"
+      },
+      {
+         "id":2,
+         "nome":"Analgésicos",
+         "descricao":"Fármacos utilizados para o alívio e controle da dor"
+      },
+      {
+         "id":3,
+         "nome":"Anestésicos Locais",
+         "descricao":"Grupo de fármacos que bloqueiam de maneira reversível a propagação do impulso nervoso, com isso promovem a anestesia local"
+      },
+      {
+         "id":4,
+         "nome":"Ansiolíticos (Benzodiazepínicos)",
+         "descricao":"Ansiolíticos que atuam no sistema nervoso central, causando diminuição da propagação dos impulsos excitatórios. Utilizados para controle da ansiedade e indução do sono"
+      },
+      {
+         "id":5,
+         "nome":"Antibióticos",
+         "descricao":"Grupo de fármacos que têm a propriedade de inibir o crescimento de microrganismos patogênicos ou destruí-los. Indicados para o tratamento ou prevenção das infecções"
+      },
+      {
+         "id":6,
+         "nome":"Antifúngicos",
+         "descricao":"Fármacos utilizados para tratamento de infecções fúngicas. Podem ser utilizados na forma tópica ou sistêmica. Na Odontologia são indicados principalmente para o tratamento de candidose oral"
+      },
+      {
+         "id":7,
+         "nome":"Anti-inflamatórios não esteroidais",
+         "descricao":"Os anti-inflamatórios não esteroidais (AINEs) são medicamentos indicados para o controle da dor aguda de intensidade moderada a severa e controle da inflamação, no período pós-operatório de intervenções odontológicas"
+      },
+      {
+         "id":8,
+         "nome":"Anti-inflamatórios esteroidais (Corticosteroides)",
+         "descricao":"Os anti-inflamatórios esteroidais (corticosteroides) são indicados para prevenir a hiperalgesia e controlar o edema inflamatório"
+      },
+      {
+         "id":9,
+         "nome":"Antivirais",
+         "descricao":"Fármacos utilizados no tratamento de doenças virais com acometimento bucal e perioral"
+      }
+   ]
