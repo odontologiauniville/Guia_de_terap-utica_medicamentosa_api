@@ -1,0 +1,22 @@
+[
+       {
+         "id":2,
+         "categoriaId":2,
+         "nome":"Paracetamol"
+      },
+       {
+         "id":3,
+         "categoriaId":2,
+         "nome":"Dipirona"
+      },
+       {
+         "id":4,
+         "categoriaId":2,
+         "nome":"Paracetamol + Codeína(Tylex)"
+      },
+       {
+         "id":5,
+         "categoriaId":2,
+         "nome":"Cloridrato de Tramadol"
+      }
+   ]
