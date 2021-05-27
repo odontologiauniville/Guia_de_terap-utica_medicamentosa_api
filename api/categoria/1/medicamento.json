@@ -2,6 +2,16 @@
        {
          "id":1,
          "categoriaId":1,
-         "nome":"Antivirais"
+         "nome":"DIGLUCONATO DE CLOREXIDINA",
+         "detalhes":[
+           {
+             "id":1,
+             "medicamentoId":1,
+             "ordem":1,
+             "nome":"Nome comercial",
+             "descricao":"Periogard®"
+           }
+         ]
+         
       }
    ]
